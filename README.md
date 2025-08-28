@@ -1,0 +1,2 @@
+usage
+python3 detector_aman_kumar_samant.py iscp_pii_dataset_-_sheet1.csv
